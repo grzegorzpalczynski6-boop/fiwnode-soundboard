@@ -1,0 +1,10 @@
+*.json linguist-detectable=false
+
+* text=auto
+
+* text=auto eol=lf
+*.md linguist-documentation
+*.ts linguist-detectable
+package-lock.json linguist-generated
+*.htm linguist-vendored
+*.tsx linguist-detectable
